@@ -26,10 +26,5 @@
 * ReportRepo
 
 
-## Project Summary
-* Here In this project performing the CRUD operations on Employee_Report.
-
-
-
 
    
